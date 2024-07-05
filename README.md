@@ -18,6 +18,6 @@ Las ectomicorrizas son un tipo de micorriza en la que las hifas del hongo forman
 
 Las endomicorrizas, también conocidas como micorrizas arbusculares, son un tipo de micorriza en la que las hifas del hongo penetran las células de la raíz de la planta huésped. Este tipo de micorriza es común en una amplia variedad de plantas.
 
-- Carpeta: `endomicorrizas`
+- Carpeta: [`Imagenes/Endomicorrizas`](Imagenes/Endomicorrizas)
 - Número de imágenes: 
 - Descripción: Imágenes de raíces de plantas con endomicorrizas, mostrando la penetración de las hifas fúngicas en las células de la raíz.
