@@ -1,6 +1,6 @@
 # Set de Imágenes de Micorrizas
 
-Este repositorio contiene un set de al rededor de 1000 imágenes de diferentes tipos de micorrizas, específicamente ectomicorrizas y endomicorrizas. Las imágenes están organizadas en carpetas según el tipo de micorriza.
+Este repositorio contiene un set de alrededor de 1000 imágenes de diferentes tipos de micorrizas, específicamente ectomicorrizas y endomicorrizas. Las imágenes están organizadas en carpetas según el tipo de micorriza.
 
 ## Contenido
 
